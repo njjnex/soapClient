@@ -12,7 +12,7 @@ Build with:
 
 ### Installation
 
-Spring Boot you can start from class containing public static void main - entry-point that launches an embedded web server.
+Spring Boot application can starts from class containing public static void main - entry-point that launches an embedded web server.
 
 ```sh
 StartApplication.java
